@@ -39,7 +39,7 @@ git rebase --continue
  ```
 
 ### third use
-- use this command to see the rebase status if it is not ok use **`git rebase --abort*`** and try it again
+- use this command to see the rebase status if it is not ok use **`git rebase --abort`** and try it again
   ```bash
   git status
   ```

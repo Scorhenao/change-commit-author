@@ -1,4 +1,4 @@
-# change-commit-autor
+# change-commit-author
 # step by step 
 ### firts use
 ```bash
